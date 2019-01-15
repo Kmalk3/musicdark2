@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= 6
+game= 6play | Last Music
+stayinchannel=true
+songinstatus=true 
+token=NTM0NzM4NzY4NjYyNDk1MjQx.Dx997g.v11ISXFdKTc_R7cLCcK4cZl7tG0
+owner=512626606301249556
